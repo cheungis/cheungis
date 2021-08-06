@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 Current 2x return Amazon intern
 - 🔭 4th year CS at the University of British Columbia
 - 😄 Graduating in May 2022
