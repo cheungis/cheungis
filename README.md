@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Incoming Software Engineer at Google
+- 💻 Software Engineer at Google
 - 🔭 BSc in CS at the University of British Columbia
 - 👯 Experienced in primarily backend and enterprise level software development
 - 🌱 Ex-Amazon
